@@ -1,0 +1,23 @@
+textarea {
+  width: 200px;
+  height: 100px;
+}
+
+.notification-container {
+background-color: grey;
+height: 400px;
+width: 700px;
+margin: auto;
+/*margin-top: 180px;*/
+}
+
+.value {
+border: 2px red solid;
+}
+  
+}
+
+#menu {
+  margin: auto;
+  background-color:red;
+}
